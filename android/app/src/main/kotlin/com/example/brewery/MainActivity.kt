@@ -1,4 +1,4 @@
-package com.example.brewery
+package com.novi.brewery
 
 import io.flutter.embedding.android.FlutterActivity
 

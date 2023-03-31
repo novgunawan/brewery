@@ -1,5 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.brewery">
+    package="com.novi.brewery">
+   <uses-permission android:name="android.permission.INTERNET" />
    <application
         android:label="brewery"
         android:name="${applicationName}"

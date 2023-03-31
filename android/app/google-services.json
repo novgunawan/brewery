@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "22014404986",
+    "project_id": "brewery-a6d24",
+    "storage_bucket": "brewery-a6d24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22014404986:android:a858c78fe6ec23d8e14ec3",
+        "android_client_info": {
+          "package_name": "com.novi.brewery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "22014404986-ujd51tq80jbk036bvt9471r9ca3lt5fm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQ3jLU4PMTlTOplDLyjcMrmk4MImegN2U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "22014404986-ujd51tq80jbk036bvt9471r9ca3lt5fm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "22014404986-h90bligsqn32eqnkut8nr7tbkfuf2jcu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.novi.brewery"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
